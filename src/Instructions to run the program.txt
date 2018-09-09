@@ -1,0 +1,12 @@
+Instructions on how to run the program:-
+
+(1) We have 4 different input files in the ZIP.
+
+(2) input_file is the deafault file. To select a different input file, 
+replace the default file on Line#21 to any of the files in the ZIP (e.g: input_file3)
+
+(3) For input_file2 and input_file4, replace the value to be pushed in the stack to "F" 
+as our variable a:=F in the two cases. This is done on Line#421. 
+e.g items.push("F"); 
+
+Note: We are using only variable 'a' here. Any other variable is not allowed.  
